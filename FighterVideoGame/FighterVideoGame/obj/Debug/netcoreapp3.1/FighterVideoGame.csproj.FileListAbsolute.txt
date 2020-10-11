@@ -1,0 +1,13 @@
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\obj\Debug\netcoreapp3.1\FighterVideoGame.csprojAssemblyReference.cache
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\obj\Debug\netcoreapp3.1\FighterVideoGame.AssemblyInfoInputs.cache
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\obj\Debug\netcoreapp3.1\FighterVideoGame.AssemblyInfo.cs
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\obj\Debug\netcoreapp3.1\FighterVideoGame.csproj.CoreCompileInputs.cache
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\bin\Debug\netcoreapp3.1\FighterVideoGame.exe
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\bin\Debug\netcoreapp3.1\FighterVideoGame.deps.json
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\bin\Debug\netcoreapp3.1\FighterVideoGame.runtimeconfig.json
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\bin\Debug\netcoreapp3.1\FighterVideoGame.runtimeconfig.dev.json
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\bin\Debug\netcoreapp3.1\FighterVideoGame.dll
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\bin\Debug\netcoreapp3.1\FighterVideoGame.pdb
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\obj\Debug\netcoreapp3.1\FighterVideoGame.dll
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\obj\Debug\netcoreapp3.1\FighterVideoGame.pdb
+C:\Users\grega\workspace\quests\c#\quest-Csharp-classes\FighterVideoGame\FighterVideoGame\obj\Debug\netcoreapp3.1\FighterVideoGame.genruntimeconfig.cache
